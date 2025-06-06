@@ -1,0 +1,17 @@
+export const adviceList: string[] = [
+  'Eat soup with a fork to build patience.',
+  'Never trust a man with two first names.',
+  'Yawn louder to assert dominance.',
+  'Blink one eye at a time for efficiency.',
+  'Stand in line for things you don’t want. Builds character.',
+  'Pour cereal first, then put it back. Teaches regret.',
+  'Restart your router to restart your life.',
+  'Clean your house by moving everything slightly.',
+  "If you can't find it, don't look. It'll show up.",
+  'Water your plants with coffee. They need the energy too.',
+  'Buy a calendar to remember the past.',
+  'Clap at your screen to scare away bugs.',
+  'Sleep during meetings to save energy.',
+  'Talk to your furniture. Build trust.',
+  'Use both hands to double-click for power clicks.',
+];
